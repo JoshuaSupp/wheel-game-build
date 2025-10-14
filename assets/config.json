@@ -1,0 +1,984 @@
+{
+    "gameSpecificConfig": {
+        "10": {
+            "1": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.3
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.4
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                }
+            ],
+            "2": [
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 1.9,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.1
+                }
+            ],
+            "3": [
+                {
+                    "multiplier": 0,
+                    "probability": 0.9
+                },
+                {
+                    "multiplier": 9.9,
+                    "probability": 0.1
+                }
+            ]
+        },
+        "20": {
+            "1": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.15
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.2
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.15
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.2
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                }
+            ],
+            "2": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 1.8,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.05
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.05
+                }
+            ],
+            "3": [
+                {
+                    "multiplier": 0,
+                    "probability": 0.95
+                },
+                {
+                    "multiplier": 19.8,
+                    "probability": 0.05
+                }
+            ]
+        },
+        "30": {
+            "1": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.13333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.13333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.13333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                }
+            ],
+            "2": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 4,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.7,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.7,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 1.7,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.03333333333333333
+                }
+            ],
+            "3": [
+                {
+                    "multiplier": 0,
+                    "probability": 0.9666666666666667
+                },
+                {
+                    "multiplier": 29.7,
+                    "probability": 0.03333333333333333
+                }
+            ]
+        },
+        "40": {
+            "1": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.075
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.075
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.075
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.075
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.1
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                }
+            ],
+            "2": [
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.6,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.025
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.025
+                }
+            ],
+            "3": [
+                {
+                    "multiplier": 0,
+                    "probability": 0.975
+                },
+                {
+                    "multiplier": 39.6,
+                    "probability": 0.025
+                }
+            ]
+        },
+        "50": {
+            "1": [
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.06
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.08
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.06
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.08
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.06
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.08
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.06
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.08
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.06
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.2,
+                    "probability": 0.08
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                }
+            ],
+            "2": [
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 3,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 2,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 1.5,
+                    "probability": 0.02
+                },
+                {
+                    "multiplier": 0,
+                    "probability": 0.02
+                }
+            ],
+            "3": [
+                {
+                    "multiplier": 0,
+                    "probability": 0.98
+                },
+                {
+                    "multiplier": 49.5,
+                    "probability": 0.02
+                }
+            ]
+        }
+    }
+}
